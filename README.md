@@ -1,0 +1,1 @@
+# CodeWars-Kata-7-Solutions
