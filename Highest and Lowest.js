@@ -7,12 +7,16 @@
 // Convert The Strings into Numbers
 // Get the Highest and lowest numbers
 // Return as String
-function highAndLow(numbers){
-    // let numbersArray = numbers.split(' ').map((n) => Number(n))
-    // let highestNumber = Math.max(...numbersArray);
-    // let lowestNumber = Math.min(...numbersArray);
-    // return `${highestNumber} ${lowestNumber}`;
-    let numbersArray = numbers.split(' ').map((n) => Number(n)).sort((a,b) => a - b);
-    return `${numbersArray[numbersArray.length - 1]} ${numbersArray[0]}`;
-  }
-  console.log(highAndLow("8 3 -5 42 -1 0 0 -9 4 7 4 -4"))
+function highAndLow(numbers) {
+  // let numbersArray = numbers.split(' ').map((n) => Number(n))
+  // let highestNumber = Math.max(...numbersArray);
+  // let lowestNumber = Math.min(...numbersArray);
+  // return `${highestNumber} ${lowestNumber}`;
+  let numbersArray = numbers.split(' ').map((n) => Number(n)).sort((a, b) => a - b);
+  return `${numbersArray[numbersArray.length - 1]} ${numbersArray[0]}`;
+}
+
+console.log(highAndLow("8 3 -5 42 -1 0 0 -9 4 7 4 -4"))
+
+
+

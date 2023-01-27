@@ -1,2 +1,4 @@
-# CodeWars-Kata-7-Solutions
-# Solutions For Problems Coming from https://www.codewars.com/
+# Problem Solving Solutions in Javascript
+# Beginner Level 2
+# Codewars Kata7
+# https://www.codewars.com/
