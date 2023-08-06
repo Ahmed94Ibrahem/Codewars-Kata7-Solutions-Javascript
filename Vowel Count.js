@@ -1,3 +1,5 @@
+// Codewars Kata7 Solutions
+
 // Vowel Count
 
 // Return the number (count) of vowels in the given string.

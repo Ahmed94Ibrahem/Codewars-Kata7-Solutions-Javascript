@@ -1,3 +1,5 @@
+// Codewars Kata7 Solutions
+
 // You're a square!
 
 // That's it! You just have to check if your number of building blocks is a perfect square.

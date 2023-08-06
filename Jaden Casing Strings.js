@@ -1,3 +1,5 @@
+// Codewars Kata7 Solutions
+
 // Jaden Casing Strings
 
 // Your task is to convert strings to how they would be written by Jaden Smith. 

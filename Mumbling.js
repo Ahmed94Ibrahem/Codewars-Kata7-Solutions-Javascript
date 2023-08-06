@@ -1,3 +1,5 @@
+// Codewars Kata7 Solutions
+
 // Mumbling
 // This time no story, no theory. The examples below show you how to write function
 

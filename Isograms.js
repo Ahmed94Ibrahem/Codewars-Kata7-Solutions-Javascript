@@ -1,3 +1,5 @@
+// Codewars Kata7 Solutions
+
 // Isograms
 
 // An isogram is a word that has no repeating letters, consecutive or non-consecutive. 

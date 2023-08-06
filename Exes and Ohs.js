@@ -1,3 +1,5 @@
+// Codewars Kata7 Solutions
+
 // Exes and Ohs
 
 // Check to see if a string has the same amount of 'x's and 'o's. 

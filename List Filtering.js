@@ -1,3 +1,5 @@
+// Codewars Kata7 Solutions
+
 // List Filtering
 
 // In this kata you will create a function that

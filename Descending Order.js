@@ -1,3 +1,5 @@
+// Codewars Kata7 Solutions
+
 // Descending Order
 
 // Your task is to make a function that can take any non-negative integer as an argument and return

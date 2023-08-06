@@ -1,3 +1,5 @@
+// Codewars Kata7 Solutions
+
 // Digit*Digit
 
 // Welcome. In this kata, you are asked to square every digit of a number and concatenate them.

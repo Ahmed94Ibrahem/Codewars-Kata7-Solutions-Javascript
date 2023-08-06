@@ -1,3 +1,5 @@
+// Codewars Kata7 Solutions
+
 // Get the Middle Character
 
 
